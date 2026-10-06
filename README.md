@@ -7,6 +7,7 @@ A collection of scripts and notebooks for generating the results produced in Jul
 ### Summation
 
 Folder `sums`, script `main.jl` produces results for stagnation in vector summation and dot products of uniform distribution vectors in single and half precision.
+Script `harm.jl` demonstrates computing the harmonic series to a finite number of terms and using features from `StagnationDetection.jl` to output details on stagnation.
 
 ### Matrix multiplication
 
